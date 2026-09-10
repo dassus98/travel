@@ -1,0 +1,9 @@
+# Trip files may hold booking references and personal details; keep these out
+trips/*/research/*-live.md
+trips/*/budget.xlsx
+trips/*/bookings/
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.env
