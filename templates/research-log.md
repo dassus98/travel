@@ -1,6 +1,6 @@
 # Research pass — <YYYY-MM-DD> — <topic>
 
-Invoked by John on <date>. Single pass; compare with earlier passes in this folder.
+Invoked by Chitra on <date>. Single pass; compare with earlier passes in this folder.
 
 | Item | Value | Source (URL) | Notes |
 |---|---|---|---|

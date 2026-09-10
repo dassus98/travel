@@ -1,13 +1,13 @@
-# Traveller profile — John
+# Traveller profile — Chitra
 
-Source of truth for standing preferences. Everything here was stated by John; update only with his confirmation. Per-trip wants live in the trip's `brief.md`, not here — John does not want the same experience from every destination.
+Source of truth for standing preferences. Everything here was stated by Chitra; update only with his confirmation. Per-trip wants live in the trip's `brief.md`, not here — Chitra does not want the same experience from every destination.
 
 ## Logistics
 - Home airport: Toronto Pearson (YYZ), always. Lives in Kitchener.
 - Passport: Canadian. Check visa/ETA requirements per destination (e.g. EU ETIAS status at time of travel).
 - PTO: 10 days in 2026; 15 days/year from 2027. Assume 5 PTO days per trip unless told otherwise; use Ontario/Canadian stat holidays to stretch trips.
 - Typical trip length: ~10 days (one work week off plus the surrounding weekends).
-- Budget: ~$2,500 CAD per trip, all-in for John (flights, lodging, food, activities, local transport). Treat as a target, not a hard cap; flag when an option exceeds it and by how much.
+- Budget: ~$2,500 CAD per trip, all-in for Chitra (flights, lodging, food, activities, local transport). Treat as a target, not a hard cap; flag when an option exceeds it and by how much.
 - Payment/points: Wealthsimple Visa Infinite now; planning to get Amex Cobalt. Check Amex acceptance abroad (weak in parts of Europe) and FX-fee implications when comparing options.
 
 ## Food

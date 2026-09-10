@@ -7,7 +7,7 @@ travel/
   CLAUDE.md                 working agreement (read this first)
   PLAN.md                   staged build plan for the tool itself
   profile/
-    traveller.md            John's standing constraints and tastes
+    traveller.md            Chitra's standing constraints and tastes
     companions/             one file per recurring companion or group
   templates/                skeletons copied into each trip folder
   skills/plan-trip/         the skill (also saved to the Claude account)

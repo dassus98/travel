@@ -1,8 +1,8 @@
 # Trip brief — <destination(s)>, <dates>
 
 ## Who
-- Travellers: (John + …) — companion files: …
-- Decision-maker for trade-offs: (John / group vote / …)
+- Travellers: (Chitra + …) — companion files: …
+- Decision-maker for trade-offs: (Chitra / group vote / …)
 
 ## When
 - Fixed dates or window: … | Flexibility: …

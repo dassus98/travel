@@ -3,7 +3,7 @@
 Status: FROZEN 2026-09-10 (destination still open — decided in options.md)
 
 ## Who
-- John + a couple (friends, his age). Companion file: none yet (create if they recur).
+- Chitra + Amy (his cousin) and Kaam (her boyfriend). Companion files: `profile/companions/amy.md`, `profile/companions/kaam.md`.
 - Decisions: group decides together; options are framed for a three-way vote.
 
 ## When
@@ -19,10 +19,10 @@ Status: FROZEN 2026-09-10 (destination still open — decided in options.md)
 - Pace: balanced. ~4 hub-city days + ~3 car days.
 
 ## Constraints
-- Budget per person: ideal $2,500–3,000 CAD all-in; hard cap $4,000. Couple on the same budget.
-- Lodging: one 2-bedroom apartment (John + the couple). Nice, not fancy; cheaper preferred.
+- Budget per person: ideal $2,500–3,000 CAD all-in; hard cap $4,000. Amy and Kaam on the same budget.
+- Lodging: one 2-bedroom apartment (one room for Chitra, one for Amy and Kaam). Nice, not fancy; cheaper preferred.
 - Transport: transit in the hub city, car for the loop, walking in centres. Rent the car only for the loop days; do not keep it in the city.
-- Dietary: John mildly lactose-intolerant; otherwise none.
+- Dietary: Chitra mildly lactose-intolerant; otherwise none.
 - Driving: Spain requires an IDP with a Canadian licence (CAA, ~$30); get one regardless of destination.
 
 ## Tensions with profile (weighed in options.md)

@@ -82,7 +82,7 @@ Group ≈ C$10,700 / **≈ C$3,570 per person before contingency, ≈ C$3,930 wi
 
 ## 7. Booking timeline
 
-- **Now–30 Sep 2026**: fare alerts; agree apartment budget with the couple; IDPs at CAA.
+- **Now–30 Sep 2026**: fare alerts; agree apartment budget with Amy and Kaam; IDPs at CAA.
 - **By 15 Oct**: book apartment (free-cancel) and Évora Olive Hotel (free-cancel).
 - **Late Nov**: buy TAP; buy travel insurance the same week.
 - **Jan 2027**: reserve car (free-cancel); enquire Taberna Quarta-Feira, Prado.
